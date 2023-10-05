@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "50152349183",
+    "project_id": "onsamo-78021",
+    "storage_bucket": "onsamo-78021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50152349:android:4b996b7624cd0ee54bdbca",
+        "android_client_info": {
+          "package_name": "com.example.notificaciones_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50152349-oi5h3g4cq6jkhha5j4bqjuf9087j138h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "",
+        "android_client_info": {
+          "package_name": "com.unisangil.onsamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50152349183-oi5h3g4cq6jkhha5j4bqjuf9087j138h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50152349-oi5h3g4cq6jkhha5j4bqjuf9087j138h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
